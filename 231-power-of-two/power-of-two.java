@@ -10,3 +10,4 @@ class Solution {
         return n == 1;  // Only return true if n is fully reduced to 1
     }
 }
+
